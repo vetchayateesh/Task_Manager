@@ -212,7 +212,7 @@ Contributions are welcome! Please follow these steps:
 
 **Yateesh**
 - GitHub: [@your-username](https://github.com/vetchayateesh)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yateesh-vetcha-536a97281/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yateesh-vetcha/)
 
 ---
 
