@@ -211,8 +211,8 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Contact
 
 **Yateesh**
-- GitHub: [@your-username](https://github.com/vetchayateesh)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yateesh-vetcha/)
+- GitHub: [My_Github](https://github.com/vetchayateesh)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yateesh-vetcha/)
 
 ---
 
